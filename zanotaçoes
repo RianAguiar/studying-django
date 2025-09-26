@@ -1,0 +1,36 @@
+possiveis apps para a plataforma:
+
+1️⃣ Autenticação e Perfis de Usuários:
+    Login com credenciais acadêmicas (aluno e coordenador)
+    Diferentes perfis e permissões (aluno vs coordenador)
+
+2️⃣ Alunos:
+    Cadastro de alunos (importar do SIGA ou cadastrar manualmente)
+    Associação aluno ↔ curso ↔ semestre
+
+3️⃣ Cursos / Semestres
+    Organização por semestre
+    Um app cursos se quiser tratar cursos e semestres como entidades independentes.
+
+4️⃣ Documentos de Estágio
+    Upload, organização, storage em servidor
+    App documentos ou estagio_documentos.
+
+5️⃣ Validação / Fluxo de Aprovação
+    Painel do coordenador para aprovar/reprovar documentos
+    Status (pendente, aprovado, reprovado)
+    Justificativa de reprovação
+    Solicitação de reenvio
+    Pode ser parte do app documentos ou um app validacoes se quiser separar.
+
+6️⃣ Notificações
+    Envio de notificações para alunos e coordenadores (status do documento, prazos, lembretes)
+    App notificacoes (pode mandar e-mail, push, ou mensagens internas).
+
+7️⃣ Relatórios / Exportações
+    Exportar relatórios completos por curso, semestre ou aluno
+    Painel de métricas
+    App relatorios (útil se o recurso crescer).
+
+Fonte:
+https://chatgpt.com/share/68c96849-cf70-8001-87d1-3732fa2e3c95

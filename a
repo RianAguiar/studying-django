@@ -1,0 +1,7 @@
+Add(item): Adiciona um item ao final da lista.
+Insert(int index,item): Insere um item em uma posição específica.
+Clear(): Remove todos os elementos da lista.
+Remove(item): Remove a primeira ocorrência de um item específico da lista.
+Contains(item): Verifica se a lista contém um item específico.
+
+
